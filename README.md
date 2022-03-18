@@ -7,5 +7,5 @@ I refractored the CSS code by making it less cluttered and combining any classes
 
 I provided `alt` descriptions for all relative images for screen readers
 
-I made sure all `h` elements fall into sequential order.
+I made sure all `h` elements fall into sequential order.git
 
